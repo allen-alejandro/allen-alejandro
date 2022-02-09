@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/allen-alejandro/allen-alejandro/master/intro.gif)]
+![](https://raw.githubusercontent.com/allen-alejandro/allen-alejandro/master/intro.gif)
 
 <p align="left">
   <a href="https://www.linkedin.com/in/allen-alejandro"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
