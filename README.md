@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![allen_intro](https://user-images.githubusercontent.com/86323698/153308483-0d3526ec-a325-48b1-b323-90aef518e0f4.gif)
+
 <p align="left">
   <a href="https://www.linkedin.com/in/allen-alejandro"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
   <a href="mailto:allenalejandro3@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
@@ -27,3 +29,4 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?&style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat-square&logo=mongodb&logoColor=white)
 ![webpack](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=flat-square&logo=webpack&logoColor=black)
+
