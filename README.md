@@ -1,8 +1,4 @@
-## Hi there 👋
-
 [![](https://raw.githubusercontent.com/allen-alejandro/allen-alejandro/master/intro.gif)]
-
-![allen_intro](https://user-images.githubusercontent.com/86323698/153308483-0d3526ec-a325-48b1-b323-90aef518e0f4.gif)
 
 <p align="left">
   <a href="https://www.linkedin.com/in/allen-alejandro"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
