@@ -1,12 +1,12 @@
 ![](https://raw.githubusercontent.com/allen-alejandro/allen-alejandro/master/intro.gif)
 
-### :space_invader: &nbsp;About Me
+## :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Software Engineer Immersive Resident at [Galvanize]<br />
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and software engineering provides me an unending stream of problems I can tackle, and that is why I love this field!/<br />
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Software Engineer Immersive Resident at [Galvanize](https://www.galvanize.com/)<br />
+&nbsp;&nbsp;&nbsp;:heart: &nbsp;Passionate with problem solving and software engineering provides me an unending stream of problems I can tackle, and that is why I love this field!/<br />
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Currently learning Typescript
 
-### Languages & Tools
+## Languages & Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
@@ -22,7 +22,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat-square&logo=mongodb&logoColor=white)
 ![webpack](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=flat-square&logo=webpack&logoColor=black)
 
-### Links
+## Links
 <p align="left">
   <a href="https://www.linkedin.com/in/allen-alejandro"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
   <a href="mailto:allenalejandro3@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
