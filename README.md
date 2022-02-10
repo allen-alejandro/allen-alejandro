@@ -2,7 +2,6 @@
 
 ## :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Software Engineer Immersive Resident at [Galvanize](https://www.galvanize.com/)<br />
 &nbsp;&nbsp;&nbsp;:heart: &nbsp;Passionate with problem solving and software engineering provides me an unending stream of problems I can tackle, and that is why I love this field!/<br />
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Currently learning Typescript
 
